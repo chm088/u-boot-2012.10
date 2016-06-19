@@ -1,0 +1,1 @@
+/root/u-boot-2012.10/drivers/mtd/nand/s3c64xx.c

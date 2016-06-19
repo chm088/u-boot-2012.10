@@ -1,0 +1,1 @@
+/root/u-boot-2012.10/drivers/gpio/s3c6410_gpio.c
